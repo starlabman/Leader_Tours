@@ -15,7 +15,7 @@
 
   Tourly is fully responsive travel website, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
 
-  <a href="https://starlabman.github.io/leader_tours/"><strong>➥ Live Demo</strong></a>
+  <a href="https://starlabman.github.io/Leader_Tours/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
@@ -38,13 +38,13 @@ To run **Tourly** locally, run this command on your git bash:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/starlabman/leader_tours.git
+sudo git clone https://starlabman.github.io/Leader_Tours.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/starlabman/leader_tours.git
+git clone https://github.com/starlabman/Leader_Tours.git
 ```
 
 ### Contact
